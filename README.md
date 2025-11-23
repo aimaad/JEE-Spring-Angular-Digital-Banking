@@ -1,39 +1,35 @@
-# Mon Projet
+# My Project
 
-Description
+## Description
 
-Ce projet est une application de gestion de comptes bancaires réalisée avec Spring Boot et Angular. Il permet aux utilisateurs de gérer leurs comptes, effectuer des transactions et suivre leurs historiques de transactions.
+This project is a banking account management application built with Spring Boot and Angular. It allows users to manage their accounts, perform transactions, and track their transaction history.
 
 ## Installation
 
-1. Clonez le dépôt du projet : `git clone https://github.com/aimaad/JEE-Spring-Angular-Digital-Banking`
-2. Accédez au dossier backend : `cd backend`
-3. Importez le projet backend dans votre IDE préféré (par exemple, Eclipse ou IntelliJ)
-4. Exécutez le projet backend en cliquant sur le bouton "Run" de votre IDE
+1. Clone the project repository: `git clone https://github.com/aimaad/JEE-Spring-Angular-Digital-Banking`
+2. Go to the backend folder: `cd backend`
+3. Import the backend project into your preferred IDE (e.g., Eclipse or IntelliJ)
+4. Run the backend project by clicking the "Run" button in your IDE
 
-> Note: Assurez-vous d'avoir configuré correctement votre environnement Java et Maven pour exécuter un projet Spring Boot.
+> Note: Make sure your Java and Maven environment is properly configured to run a Spring Boot project.
 
-5. Accédez au dossier frontend : `cd ../frontend`
-6. Installez les dépendances : `npm install`
-7. Lancez l'application frontend : `npm start`
+5. Go to the frontend folder: `cd ../frontend`
+6. Install dependencies: `npm install`
+7. Start the frontend application: `npm start`
 
-> Note: Assurez-vous d'avoir Node.js et Angular CLI installés sur votre machine pour exécuter l'application frontend.
+> Note: Ensure Node.js and Angular CLI are installed on your machine to run the frontend application.
 
-## Structure du Projet
+## Project Structure
 
-Le projet est divisé en deux parties : le backend développé avec Spring Boot et le frontend développé avec Angular. Cette architecture permet une séparation claire des responsabilités et favorise la scalabilité et la maintenabilité de l'application.
+The project is divided into two parts: the backend developed with Spring Boot and the frontend developed with Angular. This architecture allows a clear separation of responsibilities and promotes scalability and maintainability.
 
-## Diagrammes
-
-* [Diagramme de Classe](https://github.com/achraftaffah/JEE-Spring-Angular-Digital-Banking/blob/main/report/diagrams/class_diagram.jpg)
-* [Diagramme d&#39;Architecture](https://github.com/achraftaffah/JEE-Spring-Angular-Digital-Banking/blob/main/report/diagrams/architecture_diagram.jpg)
 
 ## Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier CONTRIBUTING.md pour obtenir des instructions détaillées. Nous apprécions tous les types de contributions, qu'il s'agisse de corrections de bugs, d'améliorations de fonctionnalités ou de suggestions d'amélioration de l'expérience utilisateur.
+Contributions are welcome! If you want to contribute to this project, please check the CONTRIBUTING.md file for detailed instructions. We appreciate all types of contributions, whether it’s bug fixes, feature enhancements, or suggestions to improve the user experience.
 
 ## License
 
-Ce projet est sous licence MIT, ce qui signifie que vous pouvez l'utiliser, le modifier et le distribuer librement. Pour plus d'informations, veuillez consulter le fichier LICENSE.
+This project is licensed under the MIT License, which means you can use, modify, and distribute it freely. For more information, please refer to the LICENSE file.
 
-Nous espérons que vous apprécierez notre application de gestion de comptes bancaires. N'hésitez pas à nous contacter si vous avez des questions ou des commentaires. Bonne utilisation !
+We hope you enjoy our banking account management application. Feel free to contact us if you have any questions or feedback. Happy using!
